@@ -4,7 +4,7 @@
 - install any editor (vscode recommended from here https://code.visualstudio.com/download) 
 
 - install node js from here https://nodejs.org/en/ 
-\\this installs npm, npx , reactjs etc automatically
+>//this installs npm, npx , reactjs etc automatically
 
 - verify node by using below command 
 
