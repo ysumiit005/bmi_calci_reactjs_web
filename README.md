@@ -7,6 +7,7 @@
 //this installs npm, npx , reactjs etc automatically
 
 - verify node by using below command 
+
   "node -v"
 
 - done. now to run the website open cmd inside project folder named 'bmi_calci_reactjs_web' 
